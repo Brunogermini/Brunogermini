@@ -1,8 +1,8 @@
 
-<div style= "background: black">
+
 ## Oii eu sou o Bruno Germini, Estudante de análise e desenvolvimento de sistemas!
 
-
+<br>
 
 
 -🤓 Estou em busca da minha primeira vaga dev
