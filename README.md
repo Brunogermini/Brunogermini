@@ -1,13 +1,13 @@
 
 
-## Oii eu sou o Bruno Germini, Estudante de análise e desenvolvimento de sistemas!
+## Oii eu sou o Bruno Germini, Programador Front-End Júnior!
 
 <br>
 
 
 -🤓 Estou em busca da minha primeira vaga dev
 
--💻 Estudando tecnologias Front-End
+-💻 Conhecimento nas tecnologias: JavaScript, Reactjs, MySQL
 
 
 
