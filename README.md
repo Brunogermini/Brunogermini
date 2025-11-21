@@ -1,13 +1,13 @@
 
 
-## Oii eu sou o Bruno Germini, Programador Front-End Júnior!
+## Olá, sou Programador Front-End!
 
 <br>
 
 
 -🤓 Estou em busca da minha primeira vaga dev
 
--💻 Conhecimento nas tecnologias: JavaScript, Reactjs, MySQL
+-💻 Conhecimento nas tecnologias: JavaScript, Reactjs e SQL
 
 
 
@@ -28,9 +28,7 @@
  
   <a href="https://instagram.com/Brunogermini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunogermini@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-henrique-germini-69aa6820b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-   ![Snake animation](https://github.com/Brunogermini/Brunogermini/blob/output/github-contribution-grid-snake.svg)
     
   </div>
   </div>
