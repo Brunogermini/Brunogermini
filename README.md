@@ -5,9 +5,9 @@
 <br>
 
 
--🤓 Estou em busca da minha primeira vaga dev
+- Estou em transição de carreira para a área de programação
 
--💻 Conhecimento nas tecnologias: JavaScript, Reactjs e SQL
+- Conhecimento nas tecnologias: JavaScript, Reactjs e SQL
 
 
 
